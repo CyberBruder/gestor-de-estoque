@@ -81,16 +81,21 @@ A aplicação segue o modelo de arquitetura desacoplada (**Decoupled SPA + REST 
 
 <div align="center">
 
-### 💻 Contate-me / Let's Connect 💖
-<div align="center">
+### 💻 Contate-me / Let's Connect
 
-<a href="https://www.linkedin.com/in/ingrid-bruder/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ibruder83@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/ingrid-bruder" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ibruder83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C71585?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 </div>
-  <sub>Desenvolvido por JustBruder 🌷✨</sub>
+
+<div align="center">
+  <sub>Desenvolvido por JustBruder ✨</sub>
+</div>
+<div align="center">
+  <sub>🌷 Security by Design </sub>
 </div>
