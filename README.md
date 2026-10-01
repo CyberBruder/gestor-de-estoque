@@ -7,7 +7,7 @@
   </p>
 
   <p align="center">
-    <a href="https://seu-projeto.vercel.app">
+    <a href="https://conferindoestoque.vercel.app/">
       <img src="https://img.shields.io/badge/Acessar_Aplicação-Live_Demo-FF8C00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
     </a>
   </p>
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Spring_Boot-3.x-111111?style=for-the-badge&logo=springboot&logoColor=FF8C00" alt="Spring Boot" />
     <img src="https://img.shields.io/badge/Security-JWT-DAA520?style=for-the-badge&logo=jsonwebtokens&logoColor=black" alt="JWT" />
     <img src="https://img.shields.io/badge/PostgreSQL-Neon-FFD700?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Clever_Cloud-Backend-FF8C00?style=for-the-badge&logo=clevercloud&logoColor=white" alt="Clever Cloud" />
+    <img src="https://img.shields.io/badge/Render-BACKEND-FF8C00?style=for-the-badge&logo=render&logoColor=white" alt="Render Backend" />
     <img src="https://img.shields.io/badge/Vercel-Frontend-000000?style=for-the-badge&logo=vercel&logoColor=DAA520" alt="Vercel" />
   </p>
 
