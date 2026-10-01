@@ -1,4 +1,4 @@
-const API_BASE = "https://app-58f13233-93ab-41e4-8cfa-d7aa4e33885f.cleverapps.io";
+const API_BASE = "https://gestor-de-estoque-xo3w.onrender.com";
 
 let listaIngredientesGlobal = [];
 let usuarioLogado = null;
