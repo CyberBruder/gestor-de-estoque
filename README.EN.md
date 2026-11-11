@@ -24,6 +24,8 @@
 
 </div>
 
+<hr />
+
 🇧🇷 [Leia em português](README.md)
 
 <hr />
