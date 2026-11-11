@@ -1,6 +1,11 @@
 <div align="center">
 
   # ⚜️ Gestor de Estoque & PDV ⚜️
+  <div align="right">
+  <a href="README.EN.md">🇺🇸 Read in English</a>
+</div>
+
+<br>
 
   <p align="center">
     <strong>Sistema de Gestão de Estoque, Ficha Técnica e Ponto de Venda em Nuvem</strong>
@@ -23,12 +28,6 @@
   </p>
 
 </div>
-
-<hr />
-
-🇺🇸 [Read in English](README.md)
-
-<hr />
 
 ## Sobre o Projeto
 
@@ -83,8 +82,6 @@ A aplicação segue o modelo de arquitetura desacoplada (**Decoupled SPA + REST 
 
 ---
 
-<div align="center">
-
 ### 💻 Contate-me / Let's Connect
 
 <p align="center">
@@ -94,12 +91,17 @@ A aplicação segue o modelo de arquitetura desacoplada (**Decoupled SPA + REST 
   <a href="mailto:ibruder83@gmail.com">
     <img src="https://img.shields.io/badge/Email-C71585?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/JustBruder" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-C71585?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@JustBruder" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-C71585?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
 </p>
-</div>
 
 <div align="center">
   <sub>Desenvolvido por JustBruder ✨</sub>
 </div>
 <div align="center">
-  <sub>🌷 Security by Design </sub>
+  <sub>🌷🐱 Código limpo e MEOW </sub>
 </div>
