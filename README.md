@@ -26,6 +26,10 @@
 
 <hr />
 
+🇺🇸 [Read in English](README.md)
+
+<hr />
+
 ## Sobre o Projeto
 
 O **Gestor de Estoque & PDV** é uma solução *fullstack* desenvolvida para automatizar e otimizar o controle de insumos, bebidas e produtos finais em estabelecimentos alimentícios. 
